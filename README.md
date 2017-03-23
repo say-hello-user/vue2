@@ -18,8 +18,6 @@
 
 > 滑动广告插件 https://github.com/surmon-china/vue-awesome-swiper
 
-##演示效果
-![](../vue卖座网.gif)
 
 ## Build Setup
 
